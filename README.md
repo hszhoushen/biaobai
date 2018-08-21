@@ -13,3 +13,5 @@ myname = "Your name"
 
 Detailed information can be found in Zhihu.
 https://zhuanlan.zhihu.com/p/42582850
+
+biaobai.exe file is executable in windows for your convenience.
