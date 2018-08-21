@@ -7,7 +7,8 @@ I wrote the program in QT and C++.
 
 The names are required to be change accordingly:
 
-hername = "The girl you want to say love to"
+hername = "The girl you want to express your feelings to"
+
 myname = "Your name"
 
 Detailed information can be found in Zhihu.
