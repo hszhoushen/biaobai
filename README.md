@@ -11,3 +11,4 @@ hername = "The girl you want to say love to"
 myname = "Your name"
 
 Detailed information can be found in Zhihu.
+https://zhuanlan.zhihu.com/p/42582850
