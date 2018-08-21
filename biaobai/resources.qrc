@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/flower.png</file>
+        <file>image/icon.jpg</file>
+        <file>res/flower.png</file>
+        <file>res/icon.jpg</file>
+    </qresource>
+    <qresource prefix="/\new\images"/>
+</RCC>
